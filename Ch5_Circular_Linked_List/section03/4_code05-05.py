@@ -6,7 +6,7 @@ class Node():
         self.data = None
         self.link = None
 
-def printNode(start):
+def printNodes(start):
     current = start
     if current.link == None:
         return
@@ -68,18 +68,18 @@ if __name__ == '__main__':
         node.link = head
         memory.append(node)
 
-    printNode(head)
+    printNodes(head)
 
 ## 코드가 잘 실행되는지 확인 ##
 
     insertNode('다현', '화사')
-    printNode(head)
+    printNodes(head)
 
     insertNode('사나', '솔라')
-    printNode(head)
+    printNodes(head)
 
     insertNode('수연', '문별')
-    printNode(head)
+    printNodes(head)
 
 ## 실행 결과 ##
 # 다현 정연 쯔위 사나 지효 
