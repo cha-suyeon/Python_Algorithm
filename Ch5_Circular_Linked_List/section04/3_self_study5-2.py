@@ -1,5 +1,6 @@
+# Code05-08.py를 수정해서 랜덤하게 -100~100 숫자 중 7개를 뽑고, 양수와 음수의 개수를 센다. 그리고 양수는 음수로, 음수는 양수로 변경한다. 0은 양수도 음수도 아닌 것으로 간주한다.
+
 # 원형 연결 리스트를 활용한 홀수와 짝수 구분 프로그램
-# head로부터 홀수와 짝수 개수를 세고, 홀수와 짝수 중 더 많은 것을 모두 음수로 변경한다.
 
 import random
 
@@ -22,35 +23,33 @@ def printNodes(start):
 def countOddEven():
     global memory, head, current, pre
 
-    odd, even = 0, 0
+    pos, neg = 0, 0
     if head == None:
         return False
     current = head
     while True:
-        if current.data % 2 == 0:
-            even += 1
+        if current.data > 0:
+            pos += 1
         else:
-            odd += 1
+            neg += 1
         if current.link == head:
             break;
         current = current.link
 
-    return odd, even
+    return pos, neg
 
-def makeZeroNumber(odd, even):                  # 홀수, 짝수를 매개변수로 받음
-    if odd > even:                              # odd가 크면 나머지 값을 1
+def makeZeroNumber(pos, neg):                  # 양의 정수, 음의 정수를 매개 변수로 받음
+    if pos > neg:                              # 양의 정수(pos)가 음의 정수(neg)보다 많으면 나머지값을 1
         reminder = 1
-    else:                                       # even이 크면 나머지 값을 0
+    else:                                       # neg이 크면 나머지 값을 0
         reminder = 0
 
     current = head
     while True:
-        if current.data % 2 == reminder:
-            current.data *= -1
+        current.data *= -1
         if current.link == head:
             break;
         current = current.link
-
 
 ## 전역 변수 선언 부분 ##
 memory = []
@@ -62,7 +61,7 @@ if __name__ == "__main__":
 
     dataArray = []
     for _ in range(7):
-        dataArray.append(random.randint(1,100))
+        dataArray.append(random.randint(-100,100))
 
     node = Node()
     node.data = dataArray[0]
@@ -79,14 +78,10 @@ if __name__ == "__main__":
 
     printNodes(head)
 
-    oddCount, evenCount = countOddEven()        
-    print('홀수 -->', oddCount, '\t', '짝수 -->', evenCount)
+    posCount, negCount = countOddEven()        
+    print('양수 -->', posCount, '\t', '음수 -->', negCount)
 
-    makeZeroNumber(oddCount, evenCount)
+    makeZeroNumber(posCount, negCount)
     printNodes(head)
 
 
-## 코드 실행값 ##
-# 14 8 14 79 69 2 55 
-# 홀수 --> 3       짝수 --> 4
-# -14 -8 -14 79 69 -2 55
