@@ -65,7 +65,7 @@ top = -1
 if __name__ == "__main__":
     select = input("삽입(I)/추출(E)/확인(V)/종료(X) 중 하나를 선택==>")
 
-    while (select != 'X' and select != 'x'):
+    while (select != 'X' or select != 'x'):
 
         if select == 'I' or select == 'i':
             data = input('입력할 데이터==>')
