@@ -58,7 +58,7 @@ top = -1
 
 ## 메인 코드 부분 ##
 if __name__ == "__main__":
-    urls = ['naver.com', 'daum.net', 'nate.com']
+    urls = ['naver.com', 'daum.net', 'nate.com', 'google.com']
 
     for url in urls:
         push(url)
