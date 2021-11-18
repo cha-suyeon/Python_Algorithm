@@ -39,10 +39,10 @@
 
 | CHAPTER | TITLE                      |                               개념 정리                                |                                          Code                                          |
 | :--: | -------------------------- | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| Part1 | 코딩 테스트, 무엇을 어떻게 준비할까? |  |  |
+| **Part1** | 코딩 테스트, 무엇을 어떻게 준비할까? |  |  |
 |  1   | 코딩 테스트 개요 |    [🔗](https://www.tensorflow.org/tutorials/keras/classification)    | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb) |
 |  2   | 16~20년 코딩 테스트 기출문제 유형 분석 | [🔗](https://www.tensorflow.org/tutorials/keras/text_classification)  | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf02_text_classification.ipynb)  |
-| Part2 | 주요 알고리즘 이론과 실전 문제 | | |
+| **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
 |  3   | 그리디(Greedy) |      [🔗](https://www.tensorflow.org/tutorials/keras/regression)      |      [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf03_regression.ipynb)      |
 |  4   | 구현(Implementation) |    [🔗](https://www.tensorflow.org/tutorials/keras/save_and_load)     |    [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf04_save_and_load.ipynb)     |
 |  5   | DFS/BFS  | [🔗](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf05_overfit_and_underfit.ipynb) |
@@ -51,7 +51,7 @@
 |  8   | Dynamic Programming | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  9   | 최단 경로(shortest path) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  10   | 그래프(Graph) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-| Part3 | 알고리즘 유형별 기출문제 |  | |
+| **Part3** | 알고리즘 유형별 기출문제 |  | |
 |  11   | 그리디(Greedy) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  12   | 구현(Implementation) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  13   | DFS/BFS | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
