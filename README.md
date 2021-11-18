@@ -3,11 +3,10 @@
 
 ## 1. Data Structure and Algorithm
 
-![image](https://user-images.githubusercontent.com/84028683/142334491-f736f4dd-2eb8-47c0-a116-0d93edf66d7f.png)
-
-- '파이썬 자료구조와 알고리즘 for Beginner' 교재로 공부하고 정리했습니다.
+- 사용 교재: '파이썬 자료구조와 알고리즘 for Beginner'
 - 출판사: 한빛아카데미
 - 교재의 소스 코드 [다운로드](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B4186876690)
+- 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
 
 ### 자료
 
@@ -27,3 +26,12 @@
 |  12   | 정렬 고급(Sorting Algoritm) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  13   | 검색(Search algorithm) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  14   | 동적 계획법(Dynamic Programming) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
+
+
+## 2. Coding Test
+
+- 사용 교재: '이것이 코딩 테스트다'
+- 출판사: 한빛미디어
+- 교재의 소스 코드 [github](https://github.com/ndb796/python-for-coding-test)
+- 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
+
