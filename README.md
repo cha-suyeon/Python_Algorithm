@@ -10,16 +10,16 @@
 
 ### 자료
 
-| CHAPTER | TITLE                      |                               개념 정리                                |                                          Code                                          |
+| CHAPTER | TITLE                      |                               Code                                |                                          개념정리                                          |
 | :--: | -------------------------- | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
 |  1   | 자료구조와 알고리즘 소개 |    [🔗](https://www.tensorflow.org/tutorials/keras/classification)    | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb) |
 |  2   | 파이썬 기초문법과데이터형식 | [🔗](https://www.tensorflow.org/tutorials/keras/text_classification)  | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf02_text_classification.ipynb)  |
-|  3   | 선형 리스트(Linear List) |      [🔗](https://www.tensorflow.org/tutorials/keras/regression)      |      [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf03_regression.ipynb)      |
-|  4   | 단순 연결 리스트(Singly Linked List) |    [🔗](https://www.tensorflow.org/tutorials/keras/save_and_load)     |    [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf04_save_and_load.ipynb)     |
-|  5   | 원형 연결 리스트(Circular Linked List)  | [🔗](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf05_overfit_and_underfit.ipynb) |
-|  6   | 스택(Stack) |      [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  7   | 큐(Queue) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  8   | 이진 트리(Binary Tree) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
+|  3   | 선형 리스트(Linear List) |      [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch3_Linear_List)      |      [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf03_regression.ipynb)      |
+|  4   | 단순 연결 리스트(Singly Linked List) |    [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch4_Singly_Linked_List)     |    [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf04_save_and_load.ipynb)     |
+|  5   | 원형 연결 리스트(Circular Linked List)  | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch5_Circular_Linked_List) | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf05_overfit_and_underfit.ipynb) |
+|  6   | 스택(Stack) |      [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch6_Stack)      |
+|  7   | 큐(Queue) | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch7_Queue)      |
+|  8   | 이진 트리(Binary Tree) | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch8_Binary_Tree)      |
 |  9   | 그래프(Graph) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  10   | 재귀 호출(Recursive Call) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  11   | 정렬 기본(Sorting) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
