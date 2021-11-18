@@ -5,7 +5,7 @@
 
 - 사용 교재: '파이썬 자료구조와 알고리즘 for Beginner'
 - 출판사: 한빛아카데미
-- 교재의 소스 코드 [다운로드](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B4186876690)
+- 교재의 소스 코드: [다운로드](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B4186876690)
 - 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
 
 ### 자료
@@ -37,27 +37,27 @@
 - 교재의 소스 코드 [github](https://github.com/ndb796/python-for-coding-test)
 - 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
 
-| CHAPTER | TITLE                      |                               개념 정리                                |                                          Code                                          |
-| :--: | -------------------------- | :-------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+| CHAPTER | TITLE  | 이론 | 실전 |
+| :--: | ----------- | :------: | :------------: |
 | **Part1** | 코딩 테스트, 무엇을 어떻게 준비할까? |  |  |
-|  1   | 코딩 테스트 개요 |    [🔗](https://www.tensorflow.org/tutorials/keras/classification)    | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb) |
-|  2   | 16~20년 코딩 테스트 기출문제 유형 분석 | [🔗](https://www.tensorflow.org/tutorials/keras/text_classification)  | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf02_text_classification.ipynb)  |
+|  1   | 코딩 테스트 개요 |  [📔]() | [1️⃣]() |
+|  2   | 16~20년 코딩 테스트 기출문제 유형 분석 |  [📔]()  | [1️⃣]()  |
 | **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
-|  3   | 그리디(Greedy) |      [🔗](https://www.tensorflow.org/tutorials/keras/regression)      |      [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf03_regression.ipynb)      |
-|  4   | 구현(Implementation) |    [🔗](https://www.tensorflow.org/tutorials/keras/save_and_load)     |    [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf04_save_and_load.ipynb)     |
-|  5   | DFS/BFS  | [🔗](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) | [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf05_overfit_and_underfit.ipynb) |
-|  6   | 정렬(Sorting) |      [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  7   | 이진 탐색(Binary Search) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  8   | Dynamic Programming | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  9   | 최단 경로(shortest path) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  10   | 그래프(Graph) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
+|  3   | 그리디(Greedy) |  [📔]()  | [1️⃣]() |
+|  4   | 구현(Implementation) |  [📔]() | [1️⃣]() |
+|  5   | DFS/BFS  | [📔]() | [1️⃣]() |
+|  6   | 정렬(Sorting) |  [📔]() | [1️⃣]() |
+|  7   | 이진 탐색(Binary Search) |  [📔]()  | [1️⃣]() |
+|  8   | Dynamic Programming |  [📔]() | [1️⃣]() |
+|  9   | 최단 경로(shortest path) |  [📔]()  | [1️⃣]() |
+|  10   | 그래프(Graph) |  [📔]()  | [1️⃣]() |
 | **Part3** | 알고리즘 유형별 기출문제 |  | |
-|  11   | 그리디(Greedy) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  12   | 구현(Implementation) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  13   | DFS/BFS | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  14   | 정렬(Sorting) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  15   | 이진 탐색(Binary Search) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  16   | Dynamic Programming | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  17   | 최단 경로(shortest path) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  18   | 그래프(Graph) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
-|  19   | 2020년 상반기 삼성전자 기출문제 | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
+|  11   | 그리디(Greedy) |  [📔]()  | [1️⃣]() |
+|  12   | 구현(Implementation) | [📔]() | [1️⃣]() |
+|  13   | DFS/BFS |  [📔]()  | [1️⃣]() |
+|  14   | 정렬(Sorting) | [📔]()  |[1️⃣]() |
+|  15   | 이진 탐색(Binary Search) |  [📔]()  | [1️⃣]() |
+|  16   | Dynamic Programming |  [📔]() | [1️⃣]() |
+|  17   | 최단 경로(shortest path) |  [📔]() | [1️⃣]() |
+|  18   | 그래프(Graph) |  [📔]()  | [1️⃣]() |
+|  19   | 2020년 상반기 삼성전자 기출문제 |  [📔]() | [1️⃣]() |
