@@ -33,6 +33,14 @@ node6= TreeNode()
 node6.data = '선미'
 node3.left = node6
 
+node7= TreeNode()
+node7.data = '다현'
+node4.right = node7
+
+node8= TreeNode()
+node8.data = '사나'
+node6.right = node8
+
 # 전위 순회를 위한 재귀 함수: 루트 -> 왼쪽 -> 오른쪽 순서로 순회
 def preorder(node):
     if node == None:
