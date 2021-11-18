@@ -27,6 +27,8 @@
 |  13   | 검색(Search algorithm) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 |  14   | 동적 계획법(Dynamic Programming) | [🔗](https://www.tensorflow.org/tutorials/load_data/images)      |     [📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf06_load_images.ipynb)      |
 
+</br>
+</br>
 
 ## 2. Coding Test
 
