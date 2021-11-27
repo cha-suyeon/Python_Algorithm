@@ -47,7 +47,7 @@
 |  4   | 구현(Implementation) |  [📔]() | [1️⃣]() |
 |  5   | DFS/BFS  | [📔]() | [1️⃣]() |
 |  6   | 정렬(Sorting) |  [📔]() | [1️⃣]() |
-|  7   | 이진 탐색(Binary Search) |  [📔]()  | [1️⃣]() |
+|  7   | 이진 탐색(Binary Search) |  [📔](https://velog.io/@cha-suyeon/Algorithm-%EC%88%9C%EC%B0%A8-%ED%83%90%EC%83%89Sequential-Search%EC%99%80-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89Binary-Search)  | [1️⃣]() |
 |  8   | Dynamic Programming |  [📔]() | [1️⃣]() |
 |  9   | 최단 경로(shortest path) |  [📔]()  | [1️⃣]() |
 |  10   | 그래프(Graph) |  [📔]()  | [1️⃣]() |
