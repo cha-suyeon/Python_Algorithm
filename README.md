@@ -45,7 +45,7 @@
 | **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
 |  3   | 그리디(Greedy) |  [📔]()  | [💻]() |
 |  4   | 구현(Implementation) |  [📔]() | [💻]() |
-|  5   | DFS/BFS  | [📔]() | [💻]() |
+|  5   | DFS/BFS  | [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-%EA%B3%BC-%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89BFS) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/5) |
 |  6   | 정렬(Sorting) |  [📔]() | [💻]() |
 |  7   | 이진 탐색(Binary Search) |  [📔](https://velog.io/@cha-suyeon/Algorithm-%EC%88%9C%EC%B0%A8-%ED%83%90%EC%83%89Sequential-Search%EC%99%80-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89Binary-Search)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/7) |
 |  8   | Dynamic Programming |  [📔]() | [💻]() |
