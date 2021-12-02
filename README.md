@@ -43,7 +43,7 @@
 |  1   | 코딩 테스트 개요 |  [📔]() | [💻]() |
 |  2   | 16~20년 코딩 테스트 기출문제 유형 분석 |  [📔]()  | [💻]()  |
 | **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
-|  3   | 그리디(Greedy) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)  | [💻]() |
+|  3   | 그리디(Greedy) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/3) |
 |  4   | 구현(Implementation) |  [📔]() | [💻]() |
 |  5   | DFS/BFS  | [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-%EA%B3%BC-%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89BFS) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/5) |
 |  6   | 정렬(Sorting) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%ACSorting-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC%EC%84%A0%ED%83%9D-%EC%82%BD%EC%9E%85-%ED%80%B5-%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/6) |
