@@ -40,8 +40,8 @@
 | CHAPTER | TITLE  | 이론 | 실전 |
 | :--: | ----------- | :------: | :------------: |
 | **Part1** | 코딩 테스트, 무엇을 어떻게 준비할까? |  |  |
-|  1   | 코딩 테스트 개요 |  [📔]() | [💻]() |
-|  2   | 16~20년 코딩 테스트 기출문제 유형 분석 |  [📔]()  | [💻]()  |
+|  1   | 코딩 테스트 개요 |   | |
+|  2   | 16~20년 코딩 테스트 기출문제 유형 분석 |  | |
 | **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
 |  3   | 그리디(Greedy) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/3) |
 |  4   | 구현(Implementation) |  [📔]() | [💻]() |
