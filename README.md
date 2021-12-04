@@ -3,10 +3,19 @@
 
 ## 1. Data Structure and Algorithm
 
+</br>
+
+📍 공부 시작 날짜: 2021.10.01~   
+📍 현재진행중   
+
+</br>
+
 - 사용 교재: '파이썬 자료구조와 알고리즘 for Beginner'
 - 출판사: 한빛아카데미
 - 교재의 소스 코드: [다운로드](https://www.hanbit.co.kr/academy/books/book_view.html?p_code=B4186876690)
 - 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
+
+---
 
 ### 자료
 
@@ -27,15 +36,31 @@
 |  13   | 검색(Search algorithm) | [🔗]() | [📔]() |
 |  14   | 동적 계획법(Dynamic Programming) | [🔗]() | [📔]() |
 
+---
+
 </br>
 </br>
 
+---
+
 ## 2. Coding Test
+
+</br>
+
+📍 공부 시작 날짜: 2021.11.03~   
+📍 현재진행중   
+📍 최소 2회독 목표  
+
+</br>
 
 - 사용 교재: '이것이 코딩 테스트다'
 - 출판사: 한빛미디어
 - 교재의 소스 코드 [github](https://github.com/ndb796/python-for-coding-test)
 - 해당 교재를 사용하여 개념과 코드를 정리하였습니다.
+
+---
+
+### 자료
 
 | CHAPTER | TITLE  | 이론 | 실전 |
 | :--: | ----------- | :------: | :------------: |
@@ -44,7 +69,7 @@
 |  2   | 16~20년 코딩 테스트 기출문제 유형 분석 |  | |
 | **Part2** | 주요 알고리즘 이론과 실전 문제 | | |
 |  3   | 그리디(Greedy) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%A6%AC%EB%94%94Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/3) |
-|  4   | 구현(Implementation) |  [📔]() | [💻]() |
+|  4   | 구현(Implementation) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B5%AC%ED%98%84Implementation-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-%EC%98%88%EC%A0%9C) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/4) |
 |  5   | DFS/BFS  | [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS-%EA%B3%BC-%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89BFS) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/5) |
 |  6   | 정렬(Sorting) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%ACSorting-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC%EC%84%A0%ED%83%9D-%EC%82%BD%EC%9E%85-%ED%80%B5-%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/6) |
 |  7   | 이진 탐색(Binary Search) |  [📔](https://velog.io/@cha-suyeon/Algorithm-%EC%88%9C%EC%B0%A8-%ED%83%90%EC%83%89Sequential-Search%EC%99%80-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89Binary-Search)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/7) |
