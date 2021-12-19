@@ -21,11 +21,11 @@
 
 | CHAPTER | TITLE  | Code  |  개념정리 |
 | :--: | ----------- | :------: | :------------: |
-|  1   | 자료구조와 알고리즘 소개 |    [🔗]()    |  |
-|  2   | 파이썬 기초 문법과 데이터 형식 | [🔗]()  |  |
-|  3   | 선형 리스트(Linear List) |      [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch3_Linear_List)      |      [📔]()      |
-|  4   | 단순 연결 리스트(Singly Linked List) |    [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch4_Singly_Linked_List)     |    [📔]()     |
-|  5   | 원형 연결 리스트(Circular Linked List)  | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch5_Circular_Linked_List) | [📔]() |
+|  1   | 자료구조와 알고리즘 소개 |      |  |
+|  2   | 파이썬 기초 문법과 데이터 형식 |   |  |
+|  3   | 선형 리스트(Linear List) |      [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch3_Linear_List)      |      [📔](https://velog.io/@cha-suyeon/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%84%A0%ED%98%95-%EB%A6%AC%EC%8A%A4%ED%8A%B8Linear-List)      |
+|  4   | 단순 연결 리스트(Singly Linked List) |    [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch4_Singly_Linked_List)     |    [📔](https://velog.io/@cha-suyeon/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%8B%A8%EC%88%9C-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8Singly-Linked-List)     |
+|  5   | 원형 연결 리스트(Circular Linked List)  | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch5_Circular_Linked_List) | [📔](https://velog.io/@cha-suyeon/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9B%90%ED%98%95-%EC%97%B0%EA%B2%B0-%EB%A6%AC%EC%8A%A4%ED%8A%B8Circular-Linked-List) |
 |  6   | 스택(Stack) |      [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch6_Stack)      | [📔](https://velog.io/@cha-suyeon/Python-%EC%8A%A4%ED%83%9DStack%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EA%B5%AC%EC%A1%B0-%EA%B0%84%EB%8B%A8-%EA%B5%AC%ED%98%84)
 |  7   | 큐(Queue) | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch7_Queue)      | [📔](https://velog.io/@cha-suyeon/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%81%90Queue%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-%EA%B5%AC%EC%A1%B0-%EA%B0%84%EB%8B%A8-%EA%B5%AC%ED%98%84Python)
 |  8   | 이진 트리(Binary Tree) | [🔗](https://github.com/cha-suyeon/Python_Algorithm/tree/main/Data%20Structure%20and%20Algorithm/Ch8_Binary_Tree)      | [📔]()
