@@ -34,7 +34,7 @@ def deleteNode(deleteData):
     while current.link != head:
         pre = current
         current = current.link
-        if current.data == deleteData:      # 중간 ㄴ노드를 찾았을 때
+        if current.data == deleteData:      # 중간 노드를 찾았을 때
             pre.link = current.link
             del(current)
             return
