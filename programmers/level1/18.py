@@ -19,7 +19,6 @@ def solution(n,m):
     print('m의 약수: ', mlist)
         
     maxi = []
-    
     for i in nlist:
         # nlist에서 원소 하나씩 뽑아줍니다.
         if i in mlist:
