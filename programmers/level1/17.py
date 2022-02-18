@@ -4,7 +4,6 @@
 
 from numpy import number
 
-
 def solution(n):
     answer = 0
     new = str(n)                # 입력값이 정수여서 문자열로 변경
