@@ -34,3 +34,6 @@ for i in range(n):
             result += 1
 
 print(result) # 정답 출력
+
+# N, M을 공백을 기준으로 구분하여 입력 받기
+n, m = map(int, input().split())
