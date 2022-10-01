@@ -5,8 +5,7 @@
 
 </br>
 
-📍 공부 시작 날짜: 2021.10.01~   
-📍 현재진행중   
+📍 공부 시작 날짜: 2021.10.01~ 2021.12
 
 </br>
 
@@ -47,9 +46,7 @@
 
 </br>
 
-📍 공부 시작 날짜: 2021.11.03~   
-📍 현재진행중   
-📍 최소 2회독 목표  
+📍 공부 시작 날짜: 2021.11.03~2022.06
 
 </br>
 
@@ -74,15 +71,15 @@
 |  6   | 정렬(Sorting) |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%ACSorting-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC%EC%84%A0%ED%83%9D-%EC%82%BD%EC%9E%85-%ED%80%B5-%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/6) |
 |  7   | 이진 탐색(Binary Search) |  [📔](https://velog.io/@cha-suyeon/Algorithm-%EC%88%9C%EC%B0%A8-%ED%83%90%EC%83%89Sequential-Search%EC%99%80-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89Binary-Search)  | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/7) |
 |  8   | Dynamic Programming |  [📔](https://velog.io/@cha-suyeon/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | [💻](https://github.com/cha-suyeon/Python_Algorithm/tree/main/python-for-coding-test/8) |
-|  9   | 최단 경로(shortest path) |  [📔]()  | [💻]() |
-|  10   | 그래프(Graph) |  [📔]()  | [💻]() |
+|  9   | 최단 경로(shortest path) | 
+|  10   | 그래프(Graph) | 
 | **Part3** | 알고리즘 유형별 기출문제 |  | |
-|  11   | 그리디(Greedy) |   | [💻]() |
-|  12   | 구현(Implementation) | | [💻]() |
-|  13   | DFS/BFS |  | [💻]() |
-|  14   | 정렬(Sorting) |   |[💻]() |
-|  15   | 이진 탐색(Binary Search) |  | [💻]() |
-|  16   | Dynamic Programming |  | [💻]() |
-|  17   | 최단 경로(shortest path) |  | [💻]() |
-|  18   | 그래프(Graph) | | [💻]() |
-|  19   | 2020년 상반기 삼성전자 기출문제 |  | [💻]() |
+|  11   | 그리디(Greedy) |  
+|  12   | 구현(Implementation) | 
+|  13   | DFS/BFS | 
+|  14   | 정렬(Sorting) |  
+|  15   | 이진 탐색(Binary Search) |
+|  16   | Dynamic Programming | 
+|  17   | 최단 경로(shortest path) |  
+|  18   | 그래프(Graph) | 
+|  19   | 2020년 상반기 삼성전자 기출문제 | 
