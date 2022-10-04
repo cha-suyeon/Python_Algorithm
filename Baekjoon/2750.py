@@ -2,8 +2,8 @@
 
 # Insertion sort
 
-n = int(input())
-nums = [int(input()) for _ in range(n)]
+n = int(input()) # n is input size
+nums = [int(input()) for _ in range(n)] # range(5) -> input the n-th into the list 'nums'
 
 def insertionSort(arr):
     for i in range(1, len(arr)):
