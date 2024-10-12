@@ -15,5 +15,6 @@ for k in combinations(key, 7):
         result = list(k)
 
 result.sort()
+
 for num in result:
     print(num)
