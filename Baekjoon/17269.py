@@ -44,3 +44,34 @@ while len(result) > 2:
 result = int(''.join(map(str, result)))
 
 print(f"{result}%")
+
+####
+N, M = map(int, input().split())
+n1, n2 = input().split()
+
+cnt = '32124313113132122212111221'
+
+n1 = [cnt[ord(char) - ord('A')] for char in n1]
+n2 = [cnt[ord(char) - ord('A')] for char in n2]
+
+result = []
+for i in range(min(N, M)):
+    result.append(n1[i])
+    result.append(n2[i])
+
+# 더 긴 이름의 나머지 부분 추가
+if N > M:
+    result.extend(n1[M:])
+else:
+    result.extend(n2[N:])
+
+result.extend(max_name[min_len:])
+
+while len(result) > 2:
+    temp_result = []
+    for i in range(len(result) - 1):
+        number = int(result[i]) + int(result[i + 1])
+        temp_result.append(str(number % 10))
+    result = temp_result
+
+print(f"{result[0]}{result[1]}%")
