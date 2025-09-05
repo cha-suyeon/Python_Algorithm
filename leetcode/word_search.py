@@ -9,6 +9,7 @@ class Solution:
             return 0 <= i < n, 0 <= j < m
 
         def backtrack(i, j, w):
+            print(f"Base case: {w}✨!")
             if w == len(word):
                 return True
             
