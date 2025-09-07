@@ -6,7 +6,7 @@ class Solution:
         visited = [[False] * m for _ in range(n)]
 
         def in_range(i, j):
-            return 0 <= i < n, 0 <= j < m
+            return 0 <= i < n and 0 <= j < m
 
         def backtrack(i, j, w):
             print(f"Base case: {w}✨!")
@@ -42,6 +42,7 @@ board = [
     ['S', 'F', 'C', 'S'],
     ['A', 'D', 'E', 'E']
 ]
-word = "SEE"
+# word = "SEE"
+word = "FCEA" # False
 solution = Solution()
 print(f"Result for '{word}': {solution.exist(board, word)}")
