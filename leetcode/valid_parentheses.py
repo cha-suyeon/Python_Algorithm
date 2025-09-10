@@ -9,16 +9,11 @@ class Solution:
             elif word == ")" or word == "}" or word == "]":
                 if not stack: 
                     return False
-                
                 open_word  = stack.pop()
-
-
                 if word == ")" and open_word != "(":
                     return False
-                
                 elif word == "}" and open_word != "{":
                     return False
-                
                 elif word == "]" and open_word != "[":
                     return False
             
