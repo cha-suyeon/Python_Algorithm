@@ -49,6 +49,9 @@ def bfs_visual(graph, start_v):
 
     print("✅ Queue가 비어있으므로 탐색을 종료합니다.")
     print(f"최종 방문 순서: {list(visited.keys())}")
+    
+    print(f"visited: {visited}")
+
 
 
 # 기존 그래프 데이터

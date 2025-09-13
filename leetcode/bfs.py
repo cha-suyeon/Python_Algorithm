@@ -15,7 +15,7 @@ def bfs(graph, start_v):
             if next_v not in visited:
                 q.append(next_v)
                 visited[next_v] = True
-
+        
 graph = {
     0: [1, 3, 6],
     1: [0, 3],
