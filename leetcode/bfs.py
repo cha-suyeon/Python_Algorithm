@@ -3,9 +3,11 @@ from collections import deque
 def bfs(graph, start_v):
     # 시작점 예약
     q = deque()
-    visited = {}
     q.append(start_v)
+    
+    visited = {}
     visited[start_v] = True
+    
     # queue가 비어있을 때까지 반복
     while q:
         # 현재 노드 방문
@@ -15,7 +17,7 @@ def bfs(graph, start_v):
             if next_v not in visited:
                 q.append(next_v)
                 visited[next_v] = True
-        
+                
 graph = {
     0: [1, 3, 6],
     1: [0, 3],
